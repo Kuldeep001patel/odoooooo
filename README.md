@@ -16,6 +16,8 @@ Build a user-centric, responsive application that simplifies the complexity of p
 - Visualize timelines and plans
 - Share trip plans with others
 
+- abcd hu chhu mannu gando.
+
 ## Problem Statement
 
 Design and develop a complete travel planning application where users can:
